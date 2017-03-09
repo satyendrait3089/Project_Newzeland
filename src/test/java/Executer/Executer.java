@@ -29,7 +29,7 @@ public class Executer
 	
 	
 	
-	/*
+	
 	@Test
 	public void userStorey1() throws Throwable
 	{	
@@ -44,9 +44,9 @@ public class Executer
 	    driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
 		ActiveUser.Key.testCase1();		
 	}	
-	*/
 	
-	/*
+	
+	
 	@Test
 	public void userStorey2() throws Throwable
 	{	
@@ -61,7 +61,8 @@ public class Executer
 	    driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
 		ActiveUser.Key.testCase2();		
 	}	
-	*/
+	
+	/*
 	@Test
 	public void userStorey3() throws Throwable
 	{	
@@ -75,7 +76,8 @@ public class Executer
 		ActiveUser.Key.tapButton(objr.getStartedButton);
 	    driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
 		ActiveUser.Key.testCase3();		
-	}	
+	}
+	*/	
 
 		
   @BeforeSuite
